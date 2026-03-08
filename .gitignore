@@ -1,0 +1,9 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# 테스트 이미지 (용량 큰 파일 - Google Drive에서 별도 제공)
+19_Document Scanner/images/*.jpg
+19_Document Scanner/images/*.jpeg
+19_Document Scanner/images/*.png
+19_Document Scanner/images/output/
