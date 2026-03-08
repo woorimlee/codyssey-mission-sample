@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell.exe -Command \"gh auth status; Write-Host ''Config:''; cat $env:APPDATA/GitHub\\\\ CLI/hosts.yml 2>&1\")",
+      "Bash(powershell.exe -Command \"Get-Content \"\"$env:APPDATA\\\\GitHub CLI\\\\hosts.yml\"\"\")",
+      "Bash(powershell.exe -Command \"gh auth status\")",
+      "Bash(powershell.exe -Command \"gh repo create codyssey-mission-sample --public --source=. --remote=origin --push\")"
+    ]
+  }
+}
