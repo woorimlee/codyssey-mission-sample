@@ -41,6 +41,9 @@ python main.py webcam
 python main.py eda ./images
 ```
 
+> **문서 스캐너 테스트 이미지**는 아래 Google Drive에서 다운로드 후 `19_Document Scanner/images/` 폴더에 넣어주세요.
+> [Google Drive 링크](https://drive.google.com/drive/folders/1-Eqv09FmsdJ7ywOZag8wg-zHomjIOGKs?usp=drive_link)
+
 ---
 
 ## 파일 구조
