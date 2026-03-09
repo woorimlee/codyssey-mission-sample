@@ -8,3 +8,7 @@ __pycache__/
 19_Document Scanner/images/*.png
 19_Document Scanner/images/output/
 *.zip
+
+# AI 네이티브 미션 생성물 (영상/음악 - Google Drive에서 별도 제공)
+AI_Native_2_GenAI/*.mp4
+AI_Native_2_GenAI/*.mp3
