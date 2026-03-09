@@ -26,11 +26,15 @@
 
 ### AI 네이티브
 
-> 추가 예정
+| # | 미션명 | 핵심 주제 | 폴더 |
+|---|--------|-----------|------|
+| 2 | GenAI 기초 2: 멀티모달 콘텐츠 제작 | 멀티모달 AI 도구, 스토리보드, 브랜드 광고 (샘플) | [`AI_Native_2_GenAI/`](./AI_Native_2_GenAI/) |
 
 ---
 
 ## 실행 방법
+
+### AI 올인원 (코드 미션)
 
 각 미션 폴더에 진입한 뒤 `main.py`를 실행합니다.
 
@@ -54,9 +58,16 @@ python main.py eda ./images                       # 히스토그램 EDA
 
 Python 3.13 이상이 필요합니다. 미션별 필요 라이브러리는 각 폴더의 코드를 참고하세요.
 
+### AI 네이티브 (기획/도구 활용 미션)
+
+> **미션 2**: 스토리보드 샘플 — Gemini 특화(새벽책방). 새벽책방은 실제 생성 결과물(영상/BGM)을 Google Drive에서 제공 ('Late_Night_Bookshop'.zip)
+> [Google Drive 링크](https://drive.google.com/drive/folders/1-Eqv09FmsdJ7ywOZag8wg-zHomjIOGKs?usp=drive_link)
+
 ---
 
 ## 프로젝트 구조
+
+### AI 올인원
 
 ```
 codyssey-mission-samples/
@@ -82,6 +93,16 @@ codyssey-mission-samples/
 │   │   └── eda.py
 │   └── EVALUATION.md            # 성능 평가 보고서
 └── ...                          # 추후 미션 추가
+```
+
+### AI 네이티브
+
+```
+codyssey-mission-samples/
+├── 2_GenAI Multimodal/
+│   ├── README.md                    # 미션 개요 + 샘플 범위 설명
+│   ├── storyboard.md                # 샘플: 새벽책방 (4씬, 32초, Gemini 특화)
+└── ...                              # 추후 미션 추가
 ```
 
 ---
