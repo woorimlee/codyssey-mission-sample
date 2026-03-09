@@ -12,3 +12,6 @@ __pycache__/
 # AI 네이티브 미션 생성물 (영상/음악 - Google Drive에서 별도 제공)
 AI_Native_2_GenAI/*.mp4
 AI_Native_2_GenAI/*.mp3
+
+# 웹툰 데모 - 사용자가 npm create vite로 직접 생성하는 폴더
+AI_Native_TP_Multimodal_Webtoon/webtoon-demo/
